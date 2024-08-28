@@ -1,0 +1,16 @@
+C:\Users\duygu\source\repos\yeni\yeni\bin\Debug\net8.0-windows\yeni.exe
+C:\Users\duygu\source\repos\yeni\yeni\bin\Debug\net8.0-windows\yeni.deps.json
+C:\Users\duygu\source\repos\yeni\yeni\bin\Debug\net8.0-windows\yeni.runtimeconfig.json
+C:\Users\duygu\source\repos\yeni\yeni\bin\Debug\net8.0-windows\yeni.dll
+C:\Users\duygu\source\repos\yeni\yeni\bin\Debug\net8.0-windows\yeni.pdb
+C:\Users\duygu\source\repos\yeni\yeni\obj\Debug\net8.0-windows\yeni.Form1.resources
+C:\Users\duygu\source\repos\yeni\yeni\obj\Debug\net8.0-windows\yeni.csproj.GenerateResource.cache
+C:\Users\duygu\source\repos\yeni\yeni\obj\Debug\net8.0-windows\yeni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duygu\source\repos\yeni\yeni\obj\Debug\net8.0-windows\yeni.AssemblyInfoInputs.cache
+C:\Users\duygu\source\repos\yeni\yeni\obj\Debug\net8.0-windows\yeni.AssemblyInfo.cs
+C:\Users\duygu\source\repos\yeni\yeni\obj\Debug\net8.0-windows\yeni.csproj.CoreCompileInputs.cache
+C:\Users\duygu\source\repos\yeni\yeni\obj\Debug\net8.0-windows\yeni.dll
+C:\Users\duygu\source\repos\yeni\yeni\obj\Debug\net8.0-windows\refint\yeni.dll
+C:\Users\duygu\source\repos\yeni\yeni\obj\Debug\net8.0-windows\yeni.pdb
+C:\Users\duygu\source\repos\yeni\yeni\obj\Debug\net8.0-windows\yeni.genruntimeconfig.cache
+C:\Users\duygu\source\repos\yeni\yeni\obj\Debug\net8.0-windows\ref\yeni.dll
